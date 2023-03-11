@@ -3,7 +3,7 @@
     <CheckoutTicket class="" @close="hasCheckoutModal = false" @buyProducts="handleBuyProduct" />
   </UiModal>
   <section class="cart">
-    <h2 class="section__title">Bolsa de compras</h2>
+    <h2 class="section__title">Mi pedido</h2>
     <div class="cart__container">
       <template v-if="cartBag.length > 0">
         <div class="cart__container-products">
