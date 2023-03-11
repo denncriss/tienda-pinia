@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "idTarget": "donas",
+    "name": "donas",
+    "imgName": "Donut",
+    "cant": 14,
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543726/images/Donut_jz15fq.png",
+    "price": {
+      "value": 12,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 2,
+    "idTarget": "nuggets",
+    "name": "nuggets",
+    "cant": 20,
+    "imgName": "Drumstick",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543727/images/Drumstick_suv0t2.png",
+    "price": {
+      "value": 25,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 3,
+    "idTarget": "sodas",
+    "name": "Sodas",
+    "cant": 50,
+    "imgName": "Soda_Cup",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543717/images/Soda_Cup_k7ywko.png",
+    "price": {
+      "value": 18,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 4,
+    "idTarget": "Papas_Fritas",
+    "name": "Papas Fritas",
+    "cant": 15,
+    "imgName": "Fries",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543718/images/Fries_ajdelo.png",
+    "price": {
+      "value": 20,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 5,
+    "idTarget": "Bebidas",
+    "name": "Bebidas",
+    "cant": 36,
+    "imgName": "Glass_Drink",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543722/images/Glass_Drink_ziojo1.png",
+    "price": {
+      "value": 12,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 6,
+    "idTarget": "hamburguesas",
+    "name": "hamburguesas",
+    "cant": 16,
+    "imgName": "Burger_Final",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543723/images/Burger_Final_gehdjc.png",
+    "price": {
+      "value": 40,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 7,
+    "idTarget": "Sandwich",
+    "name": "Sandwich",
+    "cant": 11,
+    "imgName": "Sandwich",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543722/images/Sandwich_nb41xr.png",
+    "price": {
+      "value": 10.99,
+      "currency": "$"
+    }
+  },
+  {
+    "id": 8,
+    "idTarget": "Soda_Can",
+    "name": "soda",
+    "cant": 25,
+    "imgName": "Soda_Can",
+    "imgUrl": "https://res.cloudinary.com/de74b52r2/image/upload/v1678543724/images/Soda_Can_scub7h.png",
+    "price": {
+      "value": 6.25,
+      "currency": "$"
+    }
+  }
+]
